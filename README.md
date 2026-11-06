@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name]</h1>
+  <h1>Hi, I'm Joe Woods</h1>
   <h3>Data Analyst | Turning raw data into decisions that matter</h3>
 
   <p>
-    <a href="mailto:YourEmailHere">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:joe.woods537@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="YourEmailHere"/>
     </a>
-    <a href="YourLinkedInProfileHere">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/joe-woods-a32a17124" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="YourGitHubProfileHere">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -15,7 +15,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/BCS%20Accredited-Data%20Analysis%20Diploma-007ACC?style=for-the-badge" alt="Data Analysis Diploma"/>
     <img src="https://img.shields.io/badge/Certification-CompTIA%20Data%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Data+"/>
     <img src="https://img.shields.io/badge/Certification-BCS%20Business%20Analysis%20Foundation-007ACC?style=for-the-badge" alt="BCS Business Analysis Foundation"/>
   </p>
@@ -23,7 +22,7 @@
 
 ### About Me
 
-I am a Data Analyst with a BCS-accredited diploma, trained in the full data pipeline from raw extraction and cleaning through to statistical insight, machine learning, and stakeholder-ready visualisations.  
+I am a Data Analyst with a CompTIA Data+ certification, trained in the full data pipeline from raw extraction and cleaning through to statistical insight and stakeholder-ready visualisations.  
 I care about doing analysis that is honest, reproducible, and actually useful.
 
 Currently open to full-time Data Analyst roles.
@@ -71,7 +70,6 @@ Currently open to full-time Data Analyst roles.
 | SQL | Writing complex queries, joins, CTEs, subqueries, and aggregations |
 | Visualisation | Interactive dashboards in Power BI and Tableau; publication-ready plots in Matplotlib and Seaborn |
 | Statistics | Descriptive stats, hypothesis testing, confidence intervals, time series |
-| Machine Learning | Supervised and unsupervised models, evaluation metrics, introduction to neural networks |
 | Communication | Translating findings for non-technical stakeholders and storytelling with data |
 | Ethics | Privacy-aware practice, bias identification, and fairness in analytical decisions |
 
@@ -85,7 +83,7 @@ Currently open to full-time Data Analyst roles.
 
 ### Key Achievements
 
-- Completed a BCS-accredited Data Analysis Diploma
+- Completed a BCS-accredited Data Analysis course
 - Built end-to-end analysis projects from raw data to stakeholder-ready insights
 - Developed interactive dashboards and clear visualisations
 - Applied statistical methods and introductory machine learning techniques
@@ -111,7 +109,7 @@ Currently open to full-time Data Analyst roles.
 ### Currently Learning & Goals
 
 - Advanced SQL and data modelling
-- Deeper statistical methods and machine learning
+- Deeper statistical methods & machine learning
 - Advanced Power BI and Tableau techniques
 - Building a stronger portfolio with real-world datasets
 - Improving storytelling and stakeholder communication
@@ -125,7 +123,7 @@ Currently open to full-time Data Analyst roles.
 
 ### Education & Certifications
 
-- BCS Accredited Data Analysis Diploma
+- BCS Accredited Data Analysis Career Programme
 - CompTIA Data+
 - BCS Business Analysis Foundation
 
