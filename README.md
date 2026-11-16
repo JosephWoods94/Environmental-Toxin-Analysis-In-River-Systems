@@ -40,10 +40,10 @@ Environmental-Toxin-Analysis-In-River-Systems/
 |   └──
 |
 ├── Datasets/
-|   ├──Raw/                       # Cleaned version of the dataset
-|   |  └── National_River_Toxin_Dataset_1.csv
-|   └── Clean/                        # Original / raw version of the dataset
-|       └── National_River_Toxin_Dataset_1_cleaned.csv
+|   ├──Clean/                       # Cleaned version of the dataset
+|   |  └── National_River_Toxin_Dataset_1_cleaned.csv
+|   └── Raw/                        # Original / raw version of the dataset
+|       └── National_River_Toxin_Dataset_1.csv
 |
 ├── Docs/                           # Project documentation and reports
 |   ├──  ANALYSIS_APPROACH.md       # Detailed step-by-step analysis methodology
