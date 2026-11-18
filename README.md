@@ -35,9 +35,9 @@ The analysis investigates global river system water quality and toxin concentrat
 Environmental-Toxin-Analysis-In-River-Systems/
 |
 ├── Assets/                        # Screenhots and Visual Outputs from the analysis
-|   ├── 
-|   ├──
-|   └──
+|   ├── ALLBRS.png
+|   ├── CH.png
+|   └── LLOT.png
 |
 ├── Datasets/
 |   ├──Clean/                       # Cleaned version of the dataset
