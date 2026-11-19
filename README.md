@@ -7,7 +7,7 @@
 
 An in-depth exploratory data analysis examining heavy metal concentrations, water chemistry parameters, and pollutant variations across major river systems worldwide.
 
-This project uses Python and Jupyter Notebook to explore toxin levels (Lead, Mercury, Arsenic), water quality indicators (pH, Temperature, Dissolved Oxygen, Nitrates, Phosphates) in major global river systems including the Amazon, Nile, Yangtze, Mississippi, Danube and others over the period 2018–2023.
+This project uses Python and Jupyter Notebook to explore toxin levels (Lead, Mercury, Arsenic), water quality indicators (pH, Temperature, Dissolved Oxygen, Nitrates, Phosphates) in major global river systems including the Amazon, Nile, Yangtze, Mississippi, Danube and others over the period Jan 2018–Dec 2022.
 
 ---
 ## Project Overview
@@ -20,7 +20,7 @@ The analysis investigates global river system water quality and toxin concentrat
 * Handling of missing values in numeric columns
 * Calculation of average toxin levels per river system
 * Identification of the most polluted river systems (especially by Lead)
-* Time-series visualization of toxin levels from 2018 to 2023
+* Time-series visualization of toxin levels from Jan 2018 to Dec 2022
 * Statistical hypothesis testing (independent two-sample t-test)
 * Linear regression analysis exploring the relationship between pH and Lead concentrations
 * Clear visual summaries (bar charts, line graphs) stored in the Assets folder
@@ -46,7 +46,7 @@ Environmental-Toxin-Analysis-In-River-Systems/
 |       └── National_River_Toxin_Dataset_1.csv
 |
 ├── Docs/                           # Project documentation and reports
-|   ├──  ANALYSIS_APPROACH.md       # Detailed step-by-step analysis methodology
+|   ├──  Analysis_Approach.md       # Detailed step-by-step analysis methodology
 |   └──  Environmental Toxin Analysis in River Systems (1).pdf
 |
 ├── Notebooks/                      # Jupyter Notebook containing the full analysis
@@ -64,7 +64,7 @@ Environmental-Toxin-Analysis-In-River-Systems/
 
 A complete step-by-step breakdown of the analytical methodology used in this project is available here:
 
-**→ [Docs/ANALYSIS_APPROACH.md](Docs/ANALYSIS_APPROACH.md)**
+**→ [Docs/Analysis_Approach.md](Docs/Analysis_Approach.md)**
 
 This document covers:
 - Data loading and cleaning process
@@ -157,7 +157,7 @@ The results highlight the importance of continuous monitoring of heavy metal acc
 
 Graph screenshots and key visualizations from the notebook are stored in the `Assets/` folder.  
 A complete written report (including both code explanations and visuals) is available as a PDF in the `Docs/` folder.  
-A detailed explanation of the full analysis methodology can be found in [`Docs/ANALYSIS_APPROACH.md`](Docs/ANALYSIS_APPROACH.md).
+A detailed explanation of the full analysis methodology can be found in [`Docs/Analysis_Approach.md`](Docs/Analysis_Approach.md).
 
 ---
 
